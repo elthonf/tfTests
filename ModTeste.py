@@ -6,7 +6,7 @@ Created on 3 de jul de 2017
 
 class MyClass(object):
     '''
-    classdocs l
+    classdocs l Devel TST
     '''
 
 
